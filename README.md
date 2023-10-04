@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Eshaaaaaa
+- 👋 Hi, I’m @Eshaa
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++ language
+- 🌱 I’m currently learning java language
 - 📫 How to reach me ... via my mail....
 
 <!---
